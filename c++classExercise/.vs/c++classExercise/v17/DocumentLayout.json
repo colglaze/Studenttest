@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\c\u002B\u002BclassExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42F8B05-867A-4B6F-B754-A99403445278}|c\u002B\u002BclassExercise.vcxproj|D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Bclasstest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42F8B05-867A-4B6F-B754-A99403445278}|c\u002B\u002BclassExercise.vcxproj|solutionrelative:c\u002B\u002Bclasstest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42F8B05-867A-4B6F-B754-A99403445278}|c\u002B\u002BclassExercise.vcxproj|D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Btest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42F8B05-867A-4B6F-B754-A99403445278}|c\u002B\u002BclassExercise.vcxproj|solutionrelative:c\u002B\u002Btest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c\u002B\u002Bclasstest.cpp",
+              "DocumentMoniker": "D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Bclasstest.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002Bclasstest.cpp",
+              "ToolTip": "D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Bclasstest.cpp",
+              "RelativeToolTip": "c\u002B\u002Bclasstest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T02:03:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c\u002B\u002Btest.cpp",
+              "DocumentMoniker": "D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Btest.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002Btest.cpp",
+              "ToolTip": "D:\\Studenttest\\c\u002B\u002BclassExercise\\c\u002B\u002Btest.cpp",
+              "RelativeToolTip": "c\u002B\u002Btest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T02:02:37.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

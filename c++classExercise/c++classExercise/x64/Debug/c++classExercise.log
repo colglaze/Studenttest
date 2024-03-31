@@ -1,0 +1,3 @@
+﻿  c++classtest.cpp
+D:\Studenttest\c++classExercise\c++classtest.cpp(108,1): warning C4715: “Rectangle::isRectangle”: 不是所有的控件路径都返回值
+  c++classExercise.vcxproj -> D:\Studenttest\c++classExercise\x64\Debug\c++classExercise.exe

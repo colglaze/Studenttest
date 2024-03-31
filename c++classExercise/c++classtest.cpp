@@ -135,35 +135,35 @@ public:
 	}
 	double Circle(const Rectangle& r)
 	{
-		return Wide(r) * Long(r);
+		return 2 * (Wide(r) + Long(r));
 	}
 	double Area(const Rectangle& r)
 	{
-		return 2 * (Wide(r) + Long(r));
+		return Wide(r) * Long(r);
 	}
 };
 int main()
 {
-	//PointÀàµÄ²âÑé
+	//Pointç±»çš„æµ‹éªŒ
 	Point p1(2, 3);
 	Point p2(4, 13);
-	cout << "Á½µã¼äµÄ¾àÀë " << p1.distance(p2.getterX(), p2.getterY()) << endl;
-	//Line²âÑé
+	cout << "ä¸¤ç‚¹é—´çš„è·ç¦» " << p1.distance(p2.getterX(), p2.getterY()) << endl;
+	//Lineæµ‹éªŒ
 	Line L1(5, 4);
 	Line L2(p1, p2);
-	cout << "ÊÇ·ñÔÚÏßÉÏ " << L1.isOnline(8, 3) << endl;
-	cout << "ÊÇ·ñÆ½ÐÐ " << L1.isParallel(L2) << endl;
-	cout << "ÊÇ·ñ´¹Ö± " << L2.isvertical(L1) << endl;
-	//Rectangle²âÑé
+	cout << "æ˜¯å¦åœ¨çº¿ä¸Š " << L1.isOnline(8, 3) << endl;
+	cout << "æ˜¯å¦å¹³è¡Œ " << L1.isParallel(L2) << endl;
+	cout << "æ˜¯å¦åž‚ç›´ " << L2.isvertical(L1) << endl;
+	//Rectangleæµ‹éªŒ
 	Point p3(0, 0);
 	Point p4(0, 5);
 	Point p5(6, 0);
 	Point p6(6, 5);
 	Rectangle R(p3, p4, p5, p6);
-	cout << "ÄÜ·ñ¹¹³É³¤·½ÐÎ " << R.isRectangle(R) << endl;
-	cout << "³¤Îª£º" << R.Long(R) << endl;
-	cout << "¿íÎª£º" << R.Wide(R) << endl;
-	cout << "Ãæ»ýÎª£º" << R.Area(R) << endl;
-	cout << "ÖÜ³¤Îª£º" << R.Circle(R) << endl;
+	cout << "èƒ½å¦æž„æˆé•¿æ–¹å½¢ " << R.isRectangle(R) << endl;
+	cout << "é•¿ä¸ºï¼š" << R.Long(R) << endl;
+	cout << "å®½ä¸ºï¼š" << R.Wide(R) << endl;
+	cout << "é¢ç§¯ä¸ºï¼š" << R.Area(R) << endl;
+	cout << "å‘¨é•¿ä¸ºï¼š" << R.Circle(R) << endl;
 	return 0;
 }

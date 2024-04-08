@@ -1,0 +1,3 @@
+﻿  stacktest.c
+D:\Studenttest\test4.8\stacktest.c(13,11): warning C4133: “=”: 从“stack *”到“int *”的类型不兼容
+  test4.8.vcxproj -> D:\Studenttest\test4.8\x64\Debug\test4.8.exe

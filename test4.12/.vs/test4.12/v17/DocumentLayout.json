@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\test4.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9178DE47-3CCD-47FF-AB06-D3EEB2D80A84}|test4.12.vcxproj|D:\\Studenttest\\test4.12\\stacktest3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9178DE47-3CCD-47FF-AB06-D3EEB2D80A84}|test4.12.vcxproj|solutionrelative:stacktest3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stacktest3.c",
+              "DocumentMoniker": "D:\\Studenttest\\test4.12\\stacktest3.c",
+              "RelativeDocumentMoniker": "stacktest3.c",
+              "ToolTip": "D:\\Studenttest\\test4.12\\stacktest3.c",
+              "RelativeToolTip": "stacktest3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-12T13:05:35.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
-//leetcode Ïà¹ØÓĞĞ§µÄÀ¨ºÅµÄÌâÄ¿
+//leetcode æœ‰æ•ˆæ‹¬å·ç›¸å…³é¢˜
 bool isValid(char* s) {
     char arr[5000] = { 0 };
     int i = 0, j = 0, num = 0;

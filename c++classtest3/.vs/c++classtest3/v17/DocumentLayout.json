@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\c\u002B\u002Bclasstest3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7DFF6D-EC27-41AE-B00E-2BABC6CFC2DA}|c\u002B\u002Bclasstest3.vcxproj|D:\\Studenttest\\c\u002B\u002Bclasstest3\\c\u002B\u002Btest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA7DFF6D-EC27-41AE-B00E-2BABC6CFC2DA}|c\u002B\u002Bclasstest3.vcxproj|solutionrelative:c\u002B\u002Btest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c\u002B\u002Btest3.cpp",
+              "DocumentMoniker": "D:\\Studenttest\\c\u002B\u002Bclasstest3\\c\u002B\u002Btest3.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002Btest3.cpp",
+              "ToolTip": "D:\\Studenttest\\c\u002B\u002Bclasstest3\\c\u002B\u002Btest3.cpp",
+              "RelativeToolTip": "c\u002B\u002Btest3.cpp",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAHoAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T08:07:29.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

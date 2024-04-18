@@ -1,0 +1,5 @@
+﻿  stacktest4.c
+D:\Studenttest\4.18test\stacktest4.c(60,14): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Studenttest\4.18test\stacktest4.c(61,14): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Studenttest\4.18test\stacktest4.c(62,14): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  4.18test.vcxproj -> D:\Studenttest\4.18test\x64\Debug\4.18test.exe

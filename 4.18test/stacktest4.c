@@ -1,4 +1,4 @@
-//leetcode ╩ьндвж╥Ш╢╝
+//leetcode Е⌡·Ф√┤Д╦╡
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
@@ -40,13 +40,13 @@ void judge(char* p, int n, stack* s)
 	{
 		if (popstack(s) != *(p + k))
 		{
-			printf("%s ╥г╩ьнд\n",p);
+			printf("%s б╥ц┤б╩ц≤ц▌ц└\n",p);
 			return;
 		}
 		k++;
 
 	}
-	printf("%s ╩ьнд\n",p);
+	printf("%s б╩ц≤ц▌ц└\n",p);
 }
 int main()
 {

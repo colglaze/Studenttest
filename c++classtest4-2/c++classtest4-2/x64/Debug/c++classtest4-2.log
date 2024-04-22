@@ -1,0 +1,4 @@
+﻿  classtest4-2.cpp
+D:\Studenttest\c++classtest4-2\classtest4-2.cpp(191,26): warning C4305: “参数”: 从“int”到“char”截断
+D:\Studenttest\c++classtest4-2\classtest4-2.cpp(191,26): warning C4309: “参数”: 截断常量值
+  c++classtest4-2.vcxproj -> D:\Studenttest\c++classtest4-2\x64\Debug\c++classtest4-2.exe

@@ -1,4 +1,4 @@
-//leetcode Ê¢Ë®×î¶àµÄÈÝÆ÷
+//leetcode æœ€å¤šç››æ°´å®¹å™¨
 #include<stdio.h>
 #include<string.h>
 int maxArea(int* height, int heightSize) {

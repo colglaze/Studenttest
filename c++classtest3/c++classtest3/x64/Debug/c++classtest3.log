@@ -1,3 +1,17 @@
 ﻿  c++test3.cpp
-D:\Studenttest\c++classtest3\c++test3.cpp(123,133): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-  c++classtest3.vcxproj -> D:\Studenttest\c++classtest3\x64\Debug\c++classtest3.exe
+D:\Studenttest\c++classtest3\c++test3.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Studenttest\c++classtest3\c++test3.cpp(132,133): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Studenttest\c++classtest3\c++test3.cpp(162,91): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(163,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(165,166): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(165,148): error C2146: 语法错误: 缺少“;”(在标识符“绁ㄤ环涓猴細”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(165,148): error C2065: “绁ㄤ环涓猴細”: 未声明的标识符
+D:\Studenttest\c++classtest3\c++test3.cpp(165,166): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(166,2): error C2146: 语法错误: 缺少“;”(在标识符“Normallticket”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(166,32): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(167,2): error C2146: 语法错误: 缺少“)”(在标识符“cout”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(167,166): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(168,31): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(169,166): error C2001: 常量中有换行符
+D:\Studenttest\c++classtest3\c++test3.cpp(171,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Studenttest\c++classtest3\c++test3.cpp(171,1): error C2143: 语法错误: 缺少“)”(在“;”的前面)

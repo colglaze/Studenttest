@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Studenttest\\c\u002B\u002Bclasstest2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|D:\\Studenttest\\c\u002B\u002Bclasstest2\\\u9898\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|solutionrelative:\u9898\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|D:\\Studenttest\\c\u002B\u002Bclasstest2\\classtest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|solutionrelative:classtest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|D:\\Studenttest\\c\u002B\u002Bclasstest2\\\u9898\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28C600C-371A-4D7F-B33A-39C6C73CCBA6}|c\u002B\u002Bclasstest2.vcxproj|solutionrelative:\u9898\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\u9898\u76EE.cpp",
               "DocumentMoniker": "D:\\Studenttest\\c\u002B\u002Bclasstest2\\\u9898\u76EE.cpp",
               "RelativeDocumentMoniker": "\u9898\u76EE.cpp",
@@ -30,18 +30,17 @@
               "RelativeToolTip": "\u9898\u76EE.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-14T10:29:36.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T10:29:36.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "classtest2.cpp",
               "DocumentMoniker": "D:\\Studenttest\\c\u002B\u002Bclasstest2\\classtest2.cpp",
               "RelativeDocumentMoniker": "classtest2.cpp",
               "ToolTip": "D:\\Studenttest\\c\u002B\u002Bclasstest2\\classtest2.cpp",
               "RelativeToolTip": "classtest2.cpp",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAJEAAAAOAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwJUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-14T02:27:28.323Z",
               "EditorCaption": ""

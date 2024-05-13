@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\Treetest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE794C38-2238-40CF-B9D3-4B8CDFAA81D0}|Treetest.vcxproj|D:\\Studenttest\\Treetest\\Treetest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE794C38-2238-40CF-B9D3-4B8CDFAA81D0}|Treetest.vcxproj|solutionrelative:Treetest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Treetest.c",
+              "DocumentMoniker": "D:\\Studenttest\\Treetest\\Treetest.c",
+              "RelativeDocumentMoniker": "Treetest.c",
+              "ToolTip": "D:\\Studenttest\\Treetest\\Treetest.c",
+              "RelativeToolTip": "Treetest.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T04:14:44.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

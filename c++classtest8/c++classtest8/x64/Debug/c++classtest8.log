@@ -1,0 +1,3 @@
+﻿  classtest8.cpp
+D:\Studenttest\c++classtest8\classtest8.cpp(167,1): warning C4715: “Judger::control”: 不是所有的控件路径都返回值
+  c++classtest8.vcxproj -> D:\Studenttest\c++classtest8\x64\Debug\c++classtest8.exe

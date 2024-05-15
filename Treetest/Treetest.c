@@ -18,9 +18,9 @@ Tree* Creat_Tree()
 	else
 	{
 		r->data = num;
-		printf("ÊäÈë%d×ó×ÓÊ÷\n",r->data);
+		printf("è¾“å…¥%då·¦å­æ ‘\n",r->data);
 		r->lchild = Creat_Tree();
-		printf("ÊäÈë%dÓÒ×ÓÊ÷\n",r->data);
+		printf("è¾“å…¥%då³å­æ ‘\n",r->data);
 		r->rchild = Creat_Tree();
 	}
 	return r;

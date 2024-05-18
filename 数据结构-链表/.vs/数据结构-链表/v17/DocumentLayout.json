@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u94FE\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7618D4A5-EECF-4BAB-8B8A-1DA397749A73}|\u6570\u636E\u7ED3\u6784-\u94FE\u8868.vcxproj|D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u94FE\u8868\\Linktest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7618D4A5-EECF-4BAB-8B8A-1DA397749A73}|\u6570\u636E\u7ED3\u6784-\u94FE\u8868.vcxproj|solutionrelative:Linktest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Linktest.c",
+              "DocumentMoniker": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u94FE\u8868\\Linktest.c",
+              "RelativeDocumentMoniker": "Linktest.c",
+              "ToolTip": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u94FE\u8868\\Linktest.c",
+              "RelativeToolTip": "Linktest.c",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAALgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-18T03:17:02.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

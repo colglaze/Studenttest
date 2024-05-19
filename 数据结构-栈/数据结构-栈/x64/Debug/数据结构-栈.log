@@ -1,0 +1,4 @@
+﻿  Static.c
+D:\Studenttest\数据结构-栈\Static.c(69,10): warning C4133: “=”: 从“LStatic *”到“Link *”的类型不兼容
+D:\Studenttest\数据结构-栈\Static.c(74,11): warning C4133: “=”: 从“LStatic *”到“Link *”的类型不兼容
+  数据结构-栈.vcxproj -> D:\Studenttest\数据结构-栈\x64\Debug\数据结构-栈.exe

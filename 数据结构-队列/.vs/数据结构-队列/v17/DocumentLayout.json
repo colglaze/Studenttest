@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u961F\u5217\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74091B1-77D7-44DD-8294-D839B85C81C7}|\u6570\u636E\u7ED3\u6784-\u961F\u5217.vcxproj|D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u961F\u5217\\QueueTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B74091B1-77D7-44DD-8294-D839B85C81C7}|\u6570\u636E\u7ED3\u6784-\u961F\u5217.vcxproj|solutionrelative:QueueTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueTest.c",
+              "DocumentMoniker": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u961F\u5217\\QueueTest.c",
+              "RelativeDocumentMoniker": "QueueTest.c",
+              "ToolTip": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784-\u961F\u5217\\QueueTest.c",
+              "RelativeToolTip": "QueueTest.c",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAHUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-20T07:35:01.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

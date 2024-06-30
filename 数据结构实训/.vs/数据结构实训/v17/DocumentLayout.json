@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41ECD34-8532-406B-A460-7BB3F9046D30}|\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD.vcxproj|D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\FindTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41ECD34-8532-406B-A460-7BB3F9046D30}|\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD.vcxproj|solutionrelative:FindTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41ECD34-8532-406B-A460-7BB3F9046D30}|\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD.vcxproj|D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C41ECD34-8532-406B-A460-7BB3F9046D30}|\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD.vcxproj|solutionrelative:file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.txt",
+              "DocumentMoniker": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\file.txt",
+              "RelativeDocumentMoniker": "file.txt",
+              "ToolTip": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\file.txt",
+              "RelativeToolTip": "file.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T13:01:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindTest.cpp",
+              "DocumentMoniker": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\FindTest.cpp",
+              "RelativeDocumentMoniker": "FindTest.cpp",
+              "ToolTip": "D:\\Studenttest\\\u6570\u636E\u7ED3\u6784\u5B9E\u8BAD\\FindTest.cpp",
+              "RelativeToolTip": "FindTest.cpp",
+              "ViewState": "AQIAAAQFAAAAAAAAAADwvzoFAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T02:18:50.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

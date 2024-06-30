@@ -1,0 +1,15 @@
+单词总数为：13
+词频    单词
+1    ears
+2    fast
+2    has
+2    How
+2    no
+2    one
+2    running
+2    so
+2    strange
+1    tail
+3    tigers
+2    Two
+1    two

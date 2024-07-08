@@ -6,13 +6,13 @@ public class july7stTest {
 		Single1 s2=Single1.getInstance();
 		if(s1==s2)
 		{
-			System.out.println("s1与s2相同");
+			System.out.println("s1涓巗2鐩稿悓");
 		}
 		Single2 s3=Single2.getInstannce();
 		Single2 s4=Single2.getInstannce();
 		if(s3==s4)
 		{
-			System.out.println("s3与s4相同");
+			System.out.println("s3涓巗4鐩稿悓");
 		}
 	}
 }

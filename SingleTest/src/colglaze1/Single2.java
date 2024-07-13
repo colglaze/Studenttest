@@ -1,7 +1,7 @@
 package colglaze1;
 
 public class Single2 {
-	//ÀÁººÄ£Ê½
+	//æ‡’æ±‰æ¨¡å¼
 	private Single2()
 	{
 		

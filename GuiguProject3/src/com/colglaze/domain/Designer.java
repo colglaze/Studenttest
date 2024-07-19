@@ -25,7 +25,7 @@ public class Designer extends Programmer {
 //\t\t职位\t\t状态\t\t奖金\t\t股票\t\t领用设备"
 	@Override
 	public String toString() {
-		return super.baseString()+"\t\t设计师\t\t"+Status.FREE+"\t\t"+bonus+"\t\t\t\t"+getEquipment();
+		return super.baseString()+"\t\t设计师\t\t"+getStatus()+"\t\t"+bonus+"\t\t\t\t"+getEquipment();
 	}
 	public String TeamString()
 	{

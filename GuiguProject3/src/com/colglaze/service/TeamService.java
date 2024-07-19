@@ -18,12 +18,13 @@ public class TeamService {
 	{
 		return team;
 	}
-	int numofArchitect=0;
-	int numofDesigner=0;
-	int numofProgrammer=0;
+	
 	
 	public void addMember(Employee e) throws TeamException
 	{
+		int numofArchitect=0;
+		int numofDesigner=0;
+		int numofProgrammer=0;
 		if(total>=MAX_MEMBER)
 		{
 			throw new TeamException("成员已满，无法添加");
@@ -45,7 +46,24 @@ public class TeamService {
 		{
 			throw new TeamException("该员工正在度假，无法添加");
 		}
-		NumTotal(team);
+		
+		
+			for(int i=0;i<total;i++)
+			{
+				if(team[i] instanceof Architect)
+				{
+					numofArchitect++;
+				}
+				else if(team[i] instanceof Designer)
+				{
+					numofDesigner++;
+				}
+				else if(team[i] instanceof Programmer)
+				{
+					numofProgrammer++;
+				}
+			}
+		
 		if(e instanceof Architect)
 		{
 			if(numofArchitect>=1)
@@ -71,28 +89,12 @@ public class TeamService {
 		team[total++]=pro;
 		pro.setStatus(Status.BUSY);
 		pro.setMemberid(counter++);
+
 		e=pro;
 
 		
 	}
-	public void NumTotal(Programmer[] p)
-	{
-		for(int i=0;i<total;i++)
-		{
-			if(p[i] instanceof Architect)
-			{
-				numofArchitect++;
-			}
-			else if(p[i] instanceof Designer)
-			{
-				numofDesigner++;
-			}
-			else if(p[i] instanceof Programmer)
-			{
-				numofProgrammer++;
-			}
-		}
-	}
+	
 	public boolean isExit(Employee e)
 	{
 		for(int i=0;i<total;i++)

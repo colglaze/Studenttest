@@ -37,7 +37,7 @@ public class Programmer extends Employee {
 	
 	@Override
 	public String toString() {
-		return super.baseString()+"\t\t程序员\t\t"+Status.FREE+"\t\t\t\t\t\t"+getEquipment();
+		return super.baseString()+"\t\t程序员\t\t"+status+"\t\t\t\t\t\t"+getEquipment();
 	}
 	public String TeamString()
 	{

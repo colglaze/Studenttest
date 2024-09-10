@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>注册界面</title>
+    <style>
+        .ht{
+            text-align: center;
+            font-family: "隶书";
+            color: rgba(160, 95, 95, 0.886);
+          }
+          .tab{
+            height: 150px;
+            width: 600px;
+            background-color: bisque;
+            color: rgba(160, 95, 95, 0.886);
+            border: solid 6px ;
+            border-radius: 7px;
+            font-size: 30px;
+            margin: auto;
+            font-family: "隶书";
+          }
+          .ltr{
+            border: 5px solid rgba(232, 255, 196, 0.614);
+          }
+          .ipt{
+            border: 0px ;
+            border-radius: 6px;
+            height: 20px;
+          }
+          .btn1{
+            border-radius: 5px;
+            height: 25px;
+            width: 70px;
+            background-color: rgba(160, 95, 95, 0.445);;
+            font-family: "隶书";
+            font-size:17px;
+          }
+          .buttonContainer{
+            text-align: center;
+        }
+        .rec{
+            font-size: 20px;
+        }
+    </style>
+    <script>
+        function checkUsername()
+       {
+            var usernameInp = document.getElementById("usernameInput");
+            var username = usernameInp.value;
+            var usernameReg = /^[a-zA-Z0-9]{7,13}$/;
+            var usernameMsg = document.getElementById("usernameMsg");
+            if(!usernameReg.test(username))
+            {
+                usernameMsg.innerText = "账号格式不对";
+                return false;
+            }
+            usernameMsg.innerText = "OK!";
+            return true;
+       }
+       function checkUserPwd()
+       {
+            var userPwdInput = document.getElementById("userPwdInput");
+            var userPwd = userPwdInput.value;
+            var userPedReg = /^[0-9]{6}$/;
+            var userPwdMsg = document.getElementById("userPwdMsg");
+            if(!userPedReg.test(userPwd))
+            {
+                userPwdMsg.innerText = "密码必须由6位数字组成"
+                return false;
+            }
+            userPwdMsg.innerText = "OK!";
+       }
+       function checkUserRePwd()
+       {
+            var userPedReg = /^[0-9]{6}$/;
+            var userRePwd = document.getElementById("userPwdreIn");
+            var repwdValue = userRePwd.value;
+            var userPwd = document.getElementById("userPwdInput");
+            var PwdValue = userPwd.value;
+            var userRePwdMsg = document.getElementById("userRePwdMsg");
+            
+            if(!userPedReg.test(repwdValue))
+            {
+                userRePwdMsg.innerText = "密码必须由6位数字组成"
+                return false;
+            }
+            if(repwdValue != PwdValue)
+            {
+               userRePwdMsg.innerText = "两次密码必须一致";
+               return false;
+            }
+             userRePwdMsg.innerText = "OK!";
+               return true;
+       }
+       function checkForm()
+       {
+        return checkUsername()&&checkUserPwd()&&checkUserRePwd();
+       }
+    </script>
+</head>
+<body>
+    <h1 class="ht">欢迎使用日程管理系统</h1>
+    <h2 class="ht">请注册</h2>
+    <form action="/user/regist" method="get" onsubmit="return checkForm()">
+
+        <table class="tab" cellspacing="0px">
+            <tr class="ltr">
+                <td>请输入账号</td>
+                <td>
+                    <input type="text" class="ipt" id="usernameInput" name="username" onblur="checkUsername()">
+                    <span id="usernameMsg" class="rec"></span>
+                </td>
+            </tr>
+
+            <tr class="ltr">
+                <td>请输入密码</td>
+                <td>
+                    <input type="password" class="ipt" id="userPwdInput" name="userPwd" onblur="checkUserPwd()">
+                    <span id="userPwdMsg" class="rec"></span>
+                </td>
+            </tr>
+            <tr class="ltr">
+                <td>请确认密码</td>
+                <td>
+                    <input type="password" class="ipt" id="userPwdreIn" name="userRePwd" onblur="checkUserRePwd()">
+                    <span id="userRePwdMsg" class="rec"></span>
+                </td>
+            </tr>
+            <tr class="ltr">
+                <td colspan="2" class="buttonContainer">
+                    <input type="submit" value="注册" class="btn1">
+                    <input type="reset" value="重置" class="btn1">
+                    <button class="btn1"><a href="login.html" target="_self">去登录</a></button>
+                </td>
+            </tr>
+    </form>
+</body>
+</html>
